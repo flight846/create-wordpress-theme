@@ -1,1 +1,7 @@
-<h1>Header works!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <?php wp_head(); ?>
+</head>
+<body>
+    <h1>Header Works!</h1>
